@@ -202,6 +202,32 @@ const team = [
     telegram: "https://t.me/kenny_jetski",
     projects: [PROJECT_ID.defiLlama],
   },
+  {
+    id: "matt",
+    name: "Matt",
+    role: "Sales",
+    img: "/assets/team/matt.jpg",
+    twitter: "https://x.com/0x_mattd",
+    telegram: "https://t.me/matt_dennis",
+    projects: [PROJECT_ID.defiLlama],
+  },
+  {
+    id: "tree",
+    name: "Tree",
+    role: "Dev",
+    img: "/assets/team/tree.jpg",
+    telegram: "https://t.me/iamnottrader",
+    projects: [PROJECT_ID.defiLlama],
+  },
+  {
+    id: "kr3p",
+    name: "Kr3p",
+    role: "Dev",
+    img: "/assets/team/kr3p.jpg",
+    telegram: "https://t.me/llamakr3p",
+    twitter: "https://x.com/0xkr3p",
+    projects: [PROJECT_ID.defiLlama],
+  },
   // LLAMANODES
   {
     id: "bryan",
