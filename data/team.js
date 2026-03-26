@@ -197,7 +197,7 @@ const team = [
     id: "michael",
     name: "Michael",
     role: "Revenue Ops",
-    img: "/assets/team/michael1.jpg",
+    img: "/assets/team/michael2.jpg",
     twitter: "https://x.com/Meta_Mark_",
     telegram: "https://t.me/kenny_jetski",
     projects: [PROJECT_ID.defiLlama],
