@@ -300,7 +300,7 @@ const team = [
     img: "/assets/team/paige.jpg",
     twitter: "https://x.com/paigeaarhus",
     telegram: "https://t.me/paaaaaaaige",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "roosa",
@@ -308,7 +308,7 @@ const team = [
     role: "Managing Director",
     img: "/assets/team/roosa.jpg",
     telegram: "https://t.me/rooooooosa",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "ekin",
@@ -333,7 +333,7 @@ const team = [
     role: "Chief Marketing Officer",
     img: "/assets/team/yana.jpeg",
     telegram: "https://t.me/yanadenk",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "ryan",
@@ -342,7 +342,7 @@ const team = [
     img: "/assets/team/ryan-celaj.jpeg",
     telegram: "https://t.me/Cryptodurs",
     twitter: "https://x.com/rcel1559",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "sharmaine",
@@ -494,23 +494,23 @@ const team = [
     img: "/assets/team/jormpt.jpg",
     twitter: "https://x.com/jormpt",
     telegram: "https://t.me/jormpt",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "stan",
     name: "Stan",
     role: "Research Analyst",
     img: "/assets/team/stan.jpg",
-    projects: [PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
     twitter: 'https://x.com/stan3web',
     telegram: "https://t.me/stan3web",
   },
   {
-    id: "Sébastien-Nave",
+    id: "sebastien-nave",
     name: "Sébastien",
     role: "Research Analyst",
     img: "/assets/team/Sébastien-Nave.png",
-    projects: [PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
     twitter: 'https://x.com/Sebateau22',
   },
 
