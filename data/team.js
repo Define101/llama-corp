@@ -350,14 +350,14 @@ const team = [
     role: "Head of Human Resources",
     img: "/assets/team/sharmaine.jpg",
     telegram: "https://t.me/sharmcorpus",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
   },
   {
     id: "bruna",
     name: "Bruna",
     role: "Product Manager - IT",
     img: "/assets/team/bruna.png",
-    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
     twitter: "https://x.com/BrunaLe17745500",
     telegram: "https://t.me/buu_leao"
   },
@@ -461,14 +461,14 @@ const team = [
     role: "Senior Full Stack Engineer",
     img: "/assets/team/rodrigo.png",
     github: "https://github.com/rod0x",
-    projects: [PROJECT_ID.dlNews],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.defiLlama],
   },
   {
     id: "andres",
     name: "Andrés",
     role: "Senior Designer",
     img: "/assets/team/andres.png",
-    projects: [PROJECT_ID.dlNews],
+    projects: [PROJECT_ID.dlNews, PROJECT_ID.defiLlama],
     telegram: "https://t.me/AATIAPRSEND",
   },
   {
