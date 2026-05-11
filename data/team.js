@@ -509,7 +509,7 @@ const team = [
     id: "sebastien-nave",
     name: "Sébastien",
     role: "Research Analyst",
-    img: "/assets/team/Sébastien-Nave.png",
+    img: "/assets/team/sebastien-nave.png",
     projects: [PROJECT_ID.dlResearch, PROJECT_ID.defiLlama],
     twitter: 'https://x.com/Sebateau22',
   },
